@@ -1,7 +1,7 @@
 /**
   * Doorsensor_433MHz/main.c
   *
-  * Copyright (c) 2024 Your Name
+  * Copyright (c) 2025 yuchenEm
   * Licensed under the MIT License
   */
 
