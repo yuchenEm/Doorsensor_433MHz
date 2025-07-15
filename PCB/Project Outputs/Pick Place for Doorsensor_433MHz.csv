@@ -1,0 +1,39 @@
+Altium Designer Pick and Place Locations
+D:\AD_Project\DoorSensor_OOK\PCB_Project\Project Outputs for DoorSensor_OOK\Pick Place for DoorSensor_OOK-2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/07/25
+Time:       15:22
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Center-X(mil)","Center-Y(mil)","Layer","Rotation","Comment","Footprint","Description"
+"U2","2163.425mil","3544.890mil","TopLayer","0","STC15W104","SOIC_8Pin-L5.0-W4.0",""
+"C2","2205.498mil","3097.646mil","TopLayer","0","22uF/16V","C(Electrolytic)_SMD-D4.0mm_L5.4mm",""
+"U1","2199.995mil","2868.395mil","TopLayer","90","HT7333A","SOT89-3",""
+"R-Switch1","2795.000mil","3537.914mil","TopLayer","90","CT10-G1","Reed_Switch_Molded-SMD_SPST",""
+"R9","2424.531mil","2726.008mil","TopLayer","0","750KO","R0603",""
+"R8","2425.469mil","2813.992mil","TopLayer","180","10MO","R0603",""
+"R7","2425.469mil","2988.992mil","TopLayer","180","4.7MO","R0603",""
+"R6","2424.531mil","2901.008mil","TopLayer","0","10MO","R0603",""
+"R5","2408.992mil","3764.531mil","TopLayer","90","2MO","R0603",""
+"R4","2488.992mil","3764.531mil","TopLayer","90","4.7MO","R0603",""
+"R3","2573.992mil","3764.531mil","TopLayer","90","10MO","R0603",""
+"R2","1879.531mil","3256.008mil","TopLayer","0","560O","R0603",""
+"R1","1879.531mil","2966.008mil","TopLayer","0","560O","R0603",""
+"Q3","2659.913mil","2763.977mil","TopLayer","90","9014/SOT-23","SOT-23-3",""
+"Q2","2659.913mil","2938.977mil","TopLayer","90","9014/SOT-23","SOT-23-3",""
+"Q1","2511.023mil","3514.913mil","TopLayer","180","9014/SOT-23","SOT-23-3",""
+"M4","2772.500mil","2502.500mil","TopLayer","0","PCB Mounting Hole","PCB_Mounting_Hole","Mounting Hole"
+"M3","1872.500mil","2502.500mil","TopLayer","0","PCB Mounting Hole","PCB_Mounting_Hole","Mounting Hole"
+"M2","2772.500mil","4197.500mil","TopLayer","0","PCB Mounting Hole","PCB_Mounting_Hole","Mounting Hole"
+"M1","1872.500mil","4197.500mil","TopLayer","0","PCB Mounting Hole","PCB_Mounting_Hole","Mounting Hole"
+"LED2","1881.500mil","3164.000mil","TopLayer","0","0603","LED0603-Castellated",""
+"LED1","1881.500mil","3059.000mil","TopLayer","0","0603","LED0603-Castellated",""
+"JST-PH1","2240.471mil","2576.531mil","TopLayer","0","JST-PH2.0_2Pin-TH-Vertical","Connector-JST-PH2.0-2Pin_TH-Vertical",""
+"J3","2390.000mil","4215.000mil","TopLayer","180","PinHeader_3Pin","PinSocket_3Pin-2.54mm","Straight Single Row, Square Pitch, 2.54mm"
+"J2","1855.000mil","3600.000mil","TopLayer","90","PinHeader_4Pin","PinHeader_4Pin-2.54mm","Straight Single Row, Square Pitch, 2.54mm"
+"C1","2165.279mil","3282.046mil","TopLayer","180","100nF","C0603",""
